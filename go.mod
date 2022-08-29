@@ -1,3 +1,3 @@
-module github.com/apkumar/gox
+module github.com/apkumar/go-option
 
 go 1.18
